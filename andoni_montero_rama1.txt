@@ -1,1 +1,2 @@
 Primera linea del documento rama1
+Nueva linea en el fichero rama1
