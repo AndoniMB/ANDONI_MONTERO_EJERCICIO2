@@ -1,3 +1,7 @@
 Primera linea del documento rama1
+<<<<<<< HEAD
 Linea extra en el fichero rama1
 Otra linea extra en el fichero rama1
+=======
+Nueva linea en el fichero rama1
+>>>>>>> andoni_montero_rama
